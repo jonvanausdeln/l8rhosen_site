@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "L8rhosen"
+date: "2024-11-14"
+categories: [announcements]
+---
+
+Welcome to L8rhosen.com 2.0
+
