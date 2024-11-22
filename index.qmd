@@ -1,5 +1,5 @@
 ---
-title: "L8rhosen"
+title: "Be Legendary"
 listing:
   contents: posts
   sort: "date desc"

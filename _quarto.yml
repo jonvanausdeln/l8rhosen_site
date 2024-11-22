@@ -8,7 +8,7 @@ website:
       - about.qmd
 format:
   html:
-    theme: cyborg
+    theme: sketchy
     css: styles.css
 
 
